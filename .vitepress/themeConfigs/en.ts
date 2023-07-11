@@ -37,7 +37,7 @@ export const enThemeConfig: any = {
     }
   ],
   editLink: {
-    pattern: 'https://github.com/FilterItTool/docs/edit/main/docs/:path',
+    pattern: 'https://github.com/FilterItTool/docs/edit/main/src/:path',
     text: 'Edit this page on GitHub'
   },
 

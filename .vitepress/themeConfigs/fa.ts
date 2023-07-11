@@ -37,7 +37,7 @@ export const faThemeConfig: any = {
     }
   ],
   editLink: {
-    pattern: 'https://github.com/FilterItTool/docs/edit/main/docs/:path',
+    pattern: 'https://github.com/FilterItTool/docs/edit/main/src/:path',
     text: 'این صفحه را در GitHub ویرایش کنید'
   },
 
